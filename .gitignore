@@ -1,0 +1,20 @@
+# Build output
+/out/
+/out-test/
+*.class
+
+# Runtime data (regenerated on first start)
+/data/
+
+# Local configuration containing secrets
+/config/application.properties
+
+# IntelliJ local state
+.idea/workspace.xml
+.idea/shelf/
+.idea/httpRequests/
+*.iws
+
+# OS noise
+.DS_Store
+Thumbs.db
